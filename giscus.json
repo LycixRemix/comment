@@ -1,0 +1,8 @@
+{
+  "origins": [
+    "https://www.liucy.cn",
+    "https://liucy.cn"
+  ],
+  "originsRegex": ["http://localhost:[0-9]+"],
+  "defaultCommentOrder": "newest"
+}
